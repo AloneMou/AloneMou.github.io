@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[can you spider need](https://alonemou.github.io/esports/index.html)
+[![电子竞技文档](https://alonemou.github.io/esports/icon/icon.jpg)](https://alonemou.github.io/esports/index.html#g=1&p=%E8%B5%84%E8%AE%AF_%E7%83%AD%E9%97%A8_)
 You can use the [editor on GitHub](https://github.com/AloneMou/alonemou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
