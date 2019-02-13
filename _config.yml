@@ -12,4 +12,4 @@ baseurl: ""      # 这个我们不用填写
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "好嗨哟 感觉人生已经到达了高潮 感觉人生已经达到了巅峰"
-sidebar-avatar:/img/_alone.jpg
+sidebar-avatar:/img/avatar-by.JPG  
