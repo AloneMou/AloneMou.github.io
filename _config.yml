@@ -62,8 +62,8 @@ disqus_username: alonemou
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7a42da211afa856c8134                            #生成的clientID
-  clientSecret: 94c4ede678790669d6237567b4e6a11515a15e85    #生成的clientSecret
+  clientID: e7681f3ff79c491e1689                            #生成的clientID
+  clientSecret: 9a77feda55efd923e8a58cfaa7407990ca08a345    #生成的clientSecret
   repo: alonemou.github.io    #仓库名称
   owner: AloneMou    #github用户名
   admin: AloneMou
