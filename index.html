@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Thinking will not overcome fear but action will."
+description: "一个爱鼓捣代码的Java程序员."
 ---
 
 {% for post in paginator.posts %}
@@ -33,7 +33,7 @@ description: "Thinking will not overcome fear but action will."
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 上一页</a>
     </li>
     {% endif %}
-	 <li class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
+	 <li class="page_number">Page: <a href="javascript:void(0)" >{{ paginator.page }}</a> of <a href="javascript:void(0)">{{ paginator.total_pages }}</a></li>
     {% if paginator.next_page %}
     <li class="next">
         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页 &rarr;</a>
