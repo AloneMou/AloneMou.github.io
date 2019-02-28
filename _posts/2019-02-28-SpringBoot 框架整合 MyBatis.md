@@ -116,9 +116,9 @@ MyBatis 配置项解读：
 	</configuration>
 
 
-这个配置见仁见智，在它里面我就配置了一个 <code>typeAliases</code>。不了解的同学可以移步文档查看相关解释。
+>这个配置见仁见智，在它里面我就配置了一个 <code>typeAliases</code>。不了解的同学可以移步文档查看相关解释。
 
-你也可以把mapper配置在此处，有多少个mapper就配置多少次,我们已经在application.yml中批量指定了就很方便，就不用在此处一个个写。
+>你也可以把mapper配置在此处，有多少个mapper就配置多少次,我们已经在application.yml中批量指定了就很方便，就不用在此处一个个写。
 
 ### 4、接下来就是业务代码部分了
 这时候假设我们的 resources 结构是这样的：
