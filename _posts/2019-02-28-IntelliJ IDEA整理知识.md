@@ -13,23 +13,17 @@ tags:
 ---
 
 # IntelliJ IDEA知识整理
+![](https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2)
+> IntelliJ IDEA是一种商业化销售的Java集成开发环境（Integrated Development  Environment，IDE）工具软件，由JetBrains软件公司(前称为IntelliJ)发展，提供Apache 2.0开放式授权的社区版本以及专有软件的商业版本，开发者可选择其所需来下载使用。
 
-###### Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发。
-
-[**IntelliJ_IDEA_操作手册**](http://114.116.66.50:8081/file/IntelliJ_IDEA_操作手册.pdf)
+>在2010年的Infoworld报告中，比较当时市面上的主流Java集成开发环境，包括：Eclipse、IntelliJ、NetBeans、JDeveloper，IntelliJ获得该媒体实测中的最高评比。[5]
 
 [**辅助软件**](http://114.116.66.50:8081/file/software_01.rar)
-
+[**IntelliJ_IDEA_操作手册**](http://114.116.66.50:8081/file/IntelliJ_IDEA_操作手册.pdf)
 [**spring-boot 框架整合 MyBatis**](https://segmentfault.com/a/1190000014064512)
-
 [**spring-boot 框架整合 MyBatis**](https://segmentfault.com/a/1190000014064512)
-
 [**社区 Spring Cloud 从入门到进阶系列教程**](http://www.spring4all.com/article/320)
-
 ```
-分享文档，经供参考。切勿用于商业用途。
-```
-
-```
-分享文档，经供参考。切勿用于商业用途。
+    分享文档，经供参考。切勿用于商业用途。
+    如果你有好的文章可以投递到博主邮箱:2627045617@qq.com
 ```
