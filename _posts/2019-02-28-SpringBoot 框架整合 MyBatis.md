@@ -18,13 +18,12 @@ tags:
 >本文也只详细讨论基于 xml 的配置，基于注解的方式比 xml 要简单，不再做详细讲解。
 
 ### 1、将 MyBatis 加入 pom.xml 配置
-```
-	<dependency>
+    
+    <dependency>
 	    <groupId>org.mybatis.spring.boot</groupId>
 	    <artifactId>mybatis-spring-boot-starter</artifactId>
 	    <version>1.3.1</version>
 	</dependency>
-```
 
 ```
     此文章转自：http://www.spring4all.com/article/320
