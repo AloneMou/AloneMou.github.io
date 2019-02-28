@@ -20,12 +20,10 @@ tags:
 
 #
 >[**辅助软件**](http://114.116.66.50:8081/file/software_01.rar)
-
 >[**IntelliJ_IDEA_操作手册**](http://114.116.66.50:8081/file/IntelliJ_IDEA_操作手册.pdf)
-
 >[**spring-boot 框架整合 MyBatis**](https://segmentfault.com/a/1190000014064512)
-
 >[**社区 Spring Cloud 从入门到进阶系列教程**](http://www.spring4all.com/article/320)
+
 ```
     分享文档，经供参考。切勿用于商业用途。
     如果你有好的文章可以投递到博主邮箱:2627045617@qq.com
