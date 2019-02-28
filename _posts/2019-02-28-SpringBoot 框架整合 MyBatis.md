@@ -10,6 +10,7 @@ tags:
     - SpringBoot
     - 开发利器
     - JAVA
+    - MyBatis
 ---
 
 # SpringBoot 框架整合 MyBatis
