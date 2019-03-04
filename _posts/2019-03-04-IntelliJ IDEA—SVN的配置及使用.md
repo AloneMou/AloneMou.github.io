@@ -13,6 +13,15 @@ tags:
 
 # IntelliJ IDEA—SVN的配置及使用
 
+作者：木子木泗 
+
+来源：CSDN 
+
+原文：[https://blog.csdn.net/u010758410/article/details/80532992](https://blog.csdn.net/u010758410/article/details/80532992) 
+
+--------------------- 
+
+
 ## 安装服务端(如何你有SVN地址就不需要这一步)
 
 windows下，这里选择VisualSVN-Server，下一步，下一步安装 
@@ -43,10 +52,15 @@ TortoiseSVN的下载地址 ： [https://tortoisesvn.net/downloads.html](https://
 ![](https://img-blog.csdn.net/20180601084946389?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3NTg0MTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 
-## idea配置svn
+## IDEA配置SVN
 
-安装好svn客户端后，想启用idea的SVN插件还需要在idea配置一下，file - setting 按钮打开设置界面 或者（Ctrl + Alt + S）快捷键 ，如下图所示： 
+安装好svn客户端后，想启用idea的SVN插件还需要在idea配置一下，<code>File</code> - <code>setting</code> 按钮打开设置界面 或者（<code> Ctrl + Alt + S </code>）快捷键 ，如下图所示： 
 ![](https://img-blog.csdn.net/20180601085144370?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3NTg0MTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+
+>IDEA版本IntelliJ IDEA 2018.3.3 x64如下图所示配置：
+
+![](https://alonemou.github.io/file/image/idea配置svn.png)
 
 ### 方法一：直接检出
 重启一下你的IntelliJ Idea，然后从svn库中下载项目： 
@@ -62,14 +76,7 @@ TortoiseSVN的下载地址 ： [https://tortoisesvn.net/downloads.html](https://
 ### 方法二：添加仓库 → 检出
 ![](https://img-blog.csdn.net/20180601093027314?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA3NTg0MTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
---------------------- 
-作者：木子木泗 
 
-来源：CSDN 
-
-原文：[https://blog.csdn.net/u010758410/article/details/80532992](https://blog.csdn.net/u010758410/article/details/80532992) 
-
-版权声明：本文为博主原创文章，转载请附上博文链接！
 
 
     分享文档，经供参考。切勿用于商业用途。
