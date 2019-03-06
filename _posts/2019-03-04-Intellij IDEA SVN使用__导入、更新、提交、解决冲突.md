@@ -93,31 +93,24 @@ tags:
 ![](https://img-blog.csdnimg.cn/20181105172644987.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 4.这时候解决冲突，A需要update更新操作;
-
 ![](https://img-blog.csdnimg.cn/20181105173005673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 5.如图操作
-
 ![](https://img-blog.csdnimg.cn/20181105173109631.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 6.如图操作
-
 ![](https://img-blog.csdnimg.cn/20181105173132770.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 7.更新了
-
 ![](https://img-blog.csdnimg.cn/20181105174638204.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 8.更新完成提交；
-
 ![](https://img-blog.csdnimg.cn/20181105174711450.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 9.提交
-
 ![](https://img-blog.csdnimg.cn/20181105174836968.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 >已解决冲突；
-
 ![](https://img-blog.csdnimg.cn/20181105174907935.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMzgwMg==,size_16,color_FFFFFF,t_70)
 
 
