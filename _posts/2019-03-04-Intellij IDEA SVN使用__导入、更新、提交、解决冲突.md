@@ -71,47 +71,45 @@ tags:
 选中项目，右击
 >就这么简单粗暴的更新代码了
 
-![](https://img-blog.csdn.net/20170913113108977)
+![](https://alonemou.github.io/file/image/20170913113108977.png)
 
 ### 提交代码
 >commit message 里边写提交的信息，这是一个良好的习惯
-
-![](https://img-blog.csdn.net/20170913113711243)
-
-![](https://img-blog.csdn.net/20170913113724219)
+<img src="https://img-blog.csdn.net/20170913113711243">
+<img src="https://img-blog.csdn.net/20170913113724219">
 
 ### 解决冲突
 1.开发人员B对工程代码进行修改，提交；
-
-![](https://img-blog.csdnimg.cn/20181105172448287.png)
+![](https://alonemou.github.io/file/image/20181105172448287.png)
 
 2.开发人员A在没有更新版本的情况下，修改代码提交，会出现冲突，因为A的工程版本相比SVN库中低了一个版本（开发人员B做出了修改，svn库中版本号提升）；
-<img src="https://img-blog.csdnimg.cn/20181105172605138.png">
+![](https://alonemou.github.io/file/image/20181105172605138.png)
 
 3.冲突出现
-<img src="https://img-blog.csdnimg.cn/20181105172644987.png">
+![](https://alonemou.github.io/file/image/20181105172644987.png)
 
 4.这时候解决冲突，A需要update更新操作;
-<img src="https://img-blog.csdnimg.cn/20181105173005673.png">
+![](https://alonemou.github.io/file/image/20181105173005673.png)
 
 5.如图操作
-<img src="https://img-blog.csdnimg.cn/20181105173109631.png">
+![](https://alonemou.github.io/file/image/20181105173109631.png)
 
 6.如图操作
-<img src="https://img-blog.csdnimg.cn/20181105173132770.png">
+![](https://alonemou.github.io/file/image/20181105173132770.png)
 
 7.更新了
-<img src="https://img-blog.csdnimg.cn/20181105174638204.png">
+![](https://alonemou.github.io/file/image/20181105174638204.png)
 
 8.更新完成提交；
-<img src="https://img-blog.csdnimg.cn/20181105174711450.png">
+![](https://alonemou.github.io/file/image/20181105174711450.png)
 
 9.提交
-<img src="https://img-blog.csdnimg.cn/20181105174836968.png">
+![](https://alonemou.github.io/file/image/20181105174836968.png)
 
 >已解决冲突；
 
-<img src="https://img-blog.csdnimg.cn/20181105174907935.png">
+![](https://alonemou.github.io/file/image/20181105174907935.png)
+
 
 
     分享文档，经供参考。切勿用于商业用途。
