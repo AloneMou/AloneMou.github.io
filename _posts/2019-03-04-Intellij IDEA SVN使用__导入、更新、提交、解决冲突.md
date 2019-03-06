@@ -2,7 +2,7 @@
 layout:     post
 title:      intellij idea svn使用一 导入、更新、提交、解决冲突
 subtitle:   intellij idea SVN
-date:       2019-03-06
+date:       2019-03-04
 author:     BY
 header-img: img/post-bg-2015.jpg
 catalog: true
