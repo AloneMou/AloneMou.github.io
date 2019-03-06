@@ -86,6 +86,7 @@ tags:
 ![](https://img-blog.csdnimg.cn/20181105172448287.png)
 
 2.开发人员A在没有更新版本的情况下，修改代码提交，会出现冲突，因为A的工程版本相比SVN库中低了一个版本（开发人员B做出了修改，svn库中版本号提升）；
+
 ![](https://img-blog.csdnimg.cn/20181105172605138.png)
 
 3.冲突出现
@@ -93,12 +94,15 @@ tags:
 ![](https://img-blog.csdnimg.cn/20181105172644987.png)
 
 4.这时候解决冲突，A需要update更新操作;
+
 ![](https://img-blog.csdnimg.cn/20181105173005673.png)
 
 5.如图操作
+
 ![](https://img-blog.csdnimg.cn/20181105173109631.png)
 
 6.如图操作
+
 ![](https://img-blog.csdnimg.cn/20181105173132770.png)
 
 7.更新了
