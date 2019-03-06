@@ -14,9 +14,7 @@ tags:
 # Intellij IDEA SVN使用一 导入、更新、提交、解决冲突
 
 原文地址链接：
-
 从 Eclipse 入坑 IDEA(一)：IDEA 导入 SVN 项目：[https://juejin.im/entry/582fd444a0bb9f0067b99cd3](https://juejin.im/entry/582fd444a0bb9f0067b99cd3)
-
 使用svn 在idea中导入，更新，提交代码：[https://blog.csdn.net/xusheng_Mr/article/details/77964519](https://blog.csdn.net/xusheng_Mr/article/details/77964519)
 
 #### 从SVN导出项目
