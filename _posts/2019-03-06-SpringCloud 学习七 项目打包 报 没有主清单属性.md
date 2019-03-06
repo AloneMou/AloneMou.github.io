@@ -25,6 +25,8 @@ tags:
 	        </plugin>
 	    </plugins>
 	</build>
+
+
 加了之后还是报一样的错误，终于在有一个网上找到
 
 	<build>
